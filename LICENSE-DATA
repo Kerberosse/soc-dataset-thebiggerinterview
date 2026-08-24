@@ -1,0 +1,45 @@
+Licence for the log data under logs/
+====================================
+
+Copyright (c) 2026 John AO
+
+The log data in this repository is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Licence
+(CC BY-NC-SA 4.0).
+
+    Human-readable summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+    Full legal text:        https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You may share and adapt this dataset, including inside a company, for teaching,
+hiring, research or your own practice, provided that you:
+
+  - give appropriate credit and say whether you changed anything (BY),
+  - do not use it primarily for commercial advantage or monetary compensation
+    (NC), and
+  - license anything you build from it under these same terms (SA).
+
+Credit the dataset as:
+
+    "John AO, Splunk investigation lab dataset, <REPOSITORY URL>,
+     licensed CC BY-NC-SA 4.0"
+
+The code in this repository is under a different, permissive licence (see
+LICENSE); the two do not extend to each other.
+
+What this data is
+-----------------
+
+Log events captured from a real environment, describing a simulated security
+incident across four sources:
+
+    aws:cloudtrail            AWS CloudTrail records
+    aws:eks:audit             Kubernetes API server audit logs
+    crowdstrike:falcon:edr    CrowdStrike events
+    github:cloud:audit        GitHub organization audit logs
+
+No warranty
+-----------
+
+Provided as is, for training and evaluation. Any resemblance between a
+synthetic identifier here and a real account, address or organization is
+coincidental and unintended.
