@@ -1,6 +1,6 @@
 # TheBiggerInterview dataset
 
-TheBiggerInterview is an investigation scenario detailed in the related blog article. This repository holds its dataset, as well as everything needed to ingest it in a local Splunk instance. Of course, you may ingest this dataset in the SIEM of your choice.
+TheBiggerInterview is an investigation scenario detailed in [the related blog article](https://unsecure.sh/blog/agentic-soc-scenario/). This repository holds its dataset, as well as everything needed to ingest it in a local Splunk instance. Of course, you may ingest this dataset in the SIEM of your choice.
 
 The dataset is 2.2 million events over about 47 hours, 203 MB compressed here and roughly 3.4 GB once indexed.
 

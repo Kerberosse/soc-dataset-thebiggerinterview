@@ -1,7 +1,7 @@
 Licence for the log data under logs/
 ====================================
 
-Copyright (c) 2026 John AO
+Copyright (c) 2026 John AO, Michel SAN
 
 The log data in this repository is licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International Licence
@@ -20,7 +20,8 @@ hiring, research or your own practice, provided that you:
 
 Credit the dataset as:
 
-    "John AO, Splunk investigation lab dataset, <REPOSITORY URL>,
+    "John AO and Michel SAN, TheBiggerInterview dataset,
+     https://github.com/Kerberosse/soc-dataset-thebiggerinterview,
      licensed CC BY-NC-SA 4.0"
 
 The code in this repository is under a different, permissive licence (see
